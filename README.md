@@ -1,11 +1,12 @@
 # Business-Insights-360
 
-About Company
+## About Company
 
 AtliQ’s is among the fastest-growing companies in the electronics market, offering premium-quality PCs, keyboards, mice, and printers tailored to the needs of both consumers and businesses.
 
 
-Problem Statement :-
+
+## Problem Statement :-
 
 AtliQ is expanding rapidly in the electronics market but lacks strong data-driven decision-making, causing losses in Latin America.
 
@@ -24,7 +25,7 @@ Turning raw data into actionable insights. Competing with Industry Leaders – S
 
 
 
-Data Sources :-
+## Data Sources :-
 
 Data Sources: Connected MySQL databases (gdb041, gdb056) and three Excel files (Target, Market Share, Operational Cost) in Power BI.
 
@@ -39,8 +40,7 @@ Visualization & Insights: Developed interactive dashboards in Power BI to suppor
 
 
 
-
-Essential for the stakeholder :-
+## Essential for the stakeholder :-
 
 Finance View: Profit & Loss statement to analyze financial performance across markets, products, and customers.
 
@@ -53,6 +53,26 @@ Supply Chain View:  Monitors reliability and forecast accuracy to enhance supply
 Executive View:  Provides a high-level, integrated summary of key insights to support leadership and executive decisions.
 
 
+Dashboard Overview :-
+
+## Dashboard Overview
+
+Here are the key Power BI dashboard views created for AtliQ’s analytics project:
+
+### Finance View
+![Finance Dashboard](./screenshots/finance_view.png)
+
+### Sales View
+![Sales Dashboard](./screenshots/sales_view.png)
+
+### Marketing View
+![Marketing Dashboard](./screenshots/marketing_view.png)
+
+### Supply Chain View
+![Supply Chain Dashboard](./screenshots/supply_chain_view.png)
+
+### Executive View
+![Executive Dashboard](./screenshots/executive_view.png)
 
 
 
