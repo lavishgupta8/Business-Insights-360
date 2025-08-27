@@ -76,6 +76,48 @@ Here are the key Power BI dashboard views created for AtliQ’s analytics projec
 
 
 
+
+## 1- Finance View (Profitability Challenges & Revenue Growth)
+
+Net profit is negative, despite increasing net sales compared to the previous year. Targets are not being met for 2022
+
+Recommendation: Identify key cost drivers, reduce operational expenses, and optimize pricing strategies to improve profit margins.
+
+## 2- Sales View (Top Customers & Revenue Distribution)
+
+Amazon, Atliq Exclusive, Atliq eStore, and Flipkart are top customers generating the most revenue. Bottom customers like Nova, Otto, and All-Out have low revenue contribution.
+
+Recommendation: Strengthen long-term partnerships with top customers while reassessing pricing & marketing strategies for low-performing accounts
+
+
+## 3- Marketing View (Product Performance & Regional Insights)
+
+High operational expenses & low net profit indicate inefficiencies in spending.
+Notebook segment has the highest net sales but the lowest net profit, especially in the Gaming category.
+The APAC region has the highest net sales & gross margin but also the lowest net profit
+
+ Recommendation: Optimize marketing spend on high-margin products and reassess the profitability of the Gaming category. Improve regional cost control strategies in APAC.
+
+## 4- Supply Chain View (Inventory & Forecasting Challenges
+
+Forecast accuracy is 81.17% for 2022, but certain segments have high net errors, leading to excess inventory or stockouts.
+LATAM & India regions show high stock issues, impacting supply chain efficiency.
+
+Recommendation: Enhance demand forecasting models and supply chain planning to reduce inventory issues and optimize stock levels.
+
+## 5. Executive View (Strategic Trends & Competitive Insights)
+
+Net sales are increasing year over year, but net profit is declining. 
+AtliQ’s market share is increasing over time.
+Amazon is the top revenue-generating customer while in product AQ HOME Allin 1 gen 2, but bottom products like AQ Digit SSD, AQ Pen Drive 2-in-1, and AQ Master Wired Mouse have poor sales.
+NA & India have the highest revenue contributions.
+PCs are generating the most revenue by division, and Retailers are the highest revenue-generating channel.
+
+Recommendation: Strengthen AtliQ’s profitability strategy, focusing on high-growth region like NA & India. Phase out low-performing products and invest in high-demand categories like PCs to sustain market leadership.
+
+
+
+
 ## Conclusion
 
 AtliQ’s is growing, but profitability challenges exist.
